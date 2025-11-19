@@ -4,6 +4,8 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=自由工作+自由生活&center=true)
 
+![Visitor Count](https://profile-counter.glitch.me/Litaibai-Geek/count.svg)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Litaibai-Geek&layout=compact&theme=tokyonight)
 
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=Litaibai-Geek)
